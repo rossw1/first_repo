@@ -1,1 +1,1 @@
-HELLO WORLD!
+This is my first change to a text file using Git.
